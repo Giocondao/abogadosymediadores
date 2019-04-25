@@ -786,6 +786,9 @@ body {
 .cid-roBfBbnpPQ .card-img span {
   font-size: 100px;
 }
+.cid-roBfBbnpPQ .btn-inicio {
+  border-radius: 5px;
+}
 .cid-roBh0cnz6l {
   padding-top: 90px;
   padding-bottom: 15px;
@@ -819,6 +822,9 @@ body {
 }
 .cid-roBh0cnz6l .btn {
   margin: .3rem;
+}
+.cid-roBh0cnz6l .borrar {
+  display: none;
 }
 .cid-roBhcbSkgn {
   padding-top: 90px;
