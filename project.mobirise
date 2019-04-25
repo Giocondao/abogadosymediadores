@@ -42,7 +42,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://abogadosymediadores.cl",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/balance-scale-of-justice-icon-icons.com-70554.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-abogados-128x121.png",
     "noImageResize": "",
     "sitemapSwitcher": "on"
   },
