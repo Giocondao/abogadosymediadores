@@ -23,10 +23,10 @@ body {
 }
 .display-1 {
   font-family: 'Muli', sans-serif;
-  font-size: 2.5rem;
+  font-size: 3.75rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 6rem;
 }
 .display-2 {
   font-family: 'Muli', sans-serif;
@@ -63,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3rem;
+    font-size: calc( 1.9625rem + (3.75 - 1.9625) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.9625rem + (3.75 - 1.9625) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
@@ -1028,6 +1028,7 @@ body {
 }
 .cid-roBfBbnpPQ .mbr-text {
   letter-spacing: 0.03rem;
+  color: #000000;
 }
 .cid-roBfBbnpPQ .card-img span {
   font-size: 100px;
@@ -1037,6 +1038,15 @@ body {
 }
 .cid-roBfBbnpPQ .borrar {
   display: none;
+}
+.cid-roBfBbnpPQ .mbr-section-title I {
+  color: #000000;
+}
+.cid-roBfBbnpPQ .tutulo-principal {
+  clor: black;
+}
+.cid-roBfBbnpPQ .mbr-section-title EM {
+  color: #000000;
 }
 .cid-roBh0cnz6l {
   padding-top: 90px;
@@ -1071,6 +1081,9 @@ body {
 }
 .cid-roBh0cnz6l .btn {
   margin: .3rem;
+}
+.cid-roBh0cnz6l .round {
+  border-radius: 5px;
 }
 .cid-roBhcbSkgn {
   padding-top: 90px;
@@ -1189,6 +1202,9 @@ body {
 .cid-roBhgH4qB5 .links {
   color: #232323;
   text-align: center;
+}
+.cid-roBhgH4qB5 .round {
+  border-radius: 5px;
 }
 .cid-roI6AOMEUU .nav-item:focus,
 .cid-roI6AOMEUU .nav-link:focus {
@@ -1444,7 +1460,8 @@ body {
   margin-bottom: 2rem;
 }
 .cid-roIhfMAXsk .mbr-section-subtitle {
-  color: #465052;
+  color: #000000;
+  text-align: left;
 }
 .cid-roIhfMAXsk a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1534,6 +1551,9 @@ body {
 }
 .cid-roIhfMAXsk H2 {
   color: #000000;
+}
+.cid-roIhfMAXsk .landing-beneficios {
+  font-size: 22px;
 }
 .cid-roI4sUEee1 {
   padding-top: 15px;
@@ -1789,7 +1809,6 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #444444;
-  background: none;
 }
 .cid-roHf2fixBV .navbar.opened {
   transition: all .3s;
@@ -2025,7 +2044,7 @@ body {
 .cid-roHf2fixBV .nav-link:hover,
 .cid-roHf2fixBV .dropdown-item:hover,
 .cid-roHf2fixBV .icons-menu .mbr-iconfont:hover {
-  color: #c1c1c1 !important;
+  color: #000000 !important;
 }
 .cid-roBfBbnpPQ {
   background-image: url("../../../assets/images/principal2-1180x786.jpg");
