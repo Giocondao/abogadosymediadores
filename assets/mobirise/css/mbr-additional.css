@@ -1457,7 +1457,7 @@ body {
 .cid-roIhfMAXsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/happy-family-1698x1131.jpg");
+  background-image: url("../../../assets/images/familia3-1920x1281.jpg");
 }
 .cid-roIhfMAXsk .title {
   margin-bottom: 2rem;
@@ -1557,6 +1557,9 @@ body {
 }
 .cid-roIhfMAXsk .landing-beneficios {
   font-size: 22px;
+}
+.cid-roIhfMAXsk .titulo {
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
 }
 .cid-roI4sUEee1 {
   padding-top: 15px;
@@ -2055,7 +2058,7 @@ body {
 .cid-roIhfMAXsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/happy-family-1698x1131.jpg");
+  background-image: url("../../../assets/images/logo2-1-645x427.jpg");
 }
 .cid-roIhfMAXsk .title {
   margin-bottom: 2rem;
@@ -2156,31 +2159,57 @@ body {
 .cid-roIhfMAXsk .landing-beneficios {
   font-size: 22px;
 }
-.cid-rpK6MCrsI8 {
+.cid-roIhfMAXsk .titulo {
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+}
+.cid-rpR4KUuUHM {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
-.cid-rpK6MCrsI8 .signature {
-  transform: rotate(-3deg);
-  -webkit-transform: rotate(-3deg);
+.cid-rpR4KUuUHM .mbr-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
-.cid-rpK6MCrsI8 .mbr-section-title {
+.cid-rpR4KUuUHM h4 {
+  text-align: center;
+}
+.cid-rpR4KUuUHM p {
+  text-align: center;
+}
+.cid-rpR4KUuUHM .card {
+  padding-bottom: 3rem;
+}
+.cid-rpR4KUuUHM .card-img {
+  padding-bottom: 1.5rem;
+}
+.cid-rpR4KUuUHM .card-img span {
+  font-size: 80px;
+  color: #ffffff;
+}
+.cid-rpR4KUuUHM .card-title,
+.cid-rpR4KUuUHM .card-img {
+  color: #000000;
+  text-align: center;
+}
+.cid-rpR4KUuUHM .card-title {
   letter-spacing: 0.1em;
+  font-weight: bold;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img {
-  margin-bottom: 1rem;
+.cid-rpR4KUuUHM .header-title {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding: 0;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img span {
-  font-size: 60px;
-}
-.cid-rpK6MCrsI8 H1 {
-  color: #000000;
-}
-.cid-rpK6MCrsI8 .mbr-text,
-.cid-rpK6MCrsI8 .mbr-section-btn {
-  color: #000000;
-  text-align: left;
+.cid-rpR4KUuUHM .header-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin-bottom: 2rem;
 }
 .cid-rpJZuAmdcX {
   padding-top: 45px;
@@ -2495,7 +2524,7 @@ body {
 .cid-roIhfMAXsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/happy-family-1698x1131.jpg");
+  background-image: url("../../../assets/images/logo3-900x600.jpg");
 }
 .cid-roIhfMAXsk .title {
   margin-bottom: 2rem;
@@ -2596,31 +2625,57 @@ body {
 .cid-roIhfMAXsk .landing-beneficios {
   font-size: 22px;
 }
-.cid-rpK6MCrsI8 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-roIhfMAXsk .titulo {
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+}
+.cid-rpQFeZgN4E {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rpK6MCrsI8 .signature {
-  transform: rotate(-3deg);
-  -webkit-transform: rotate(-3deg);
+.cid-rpQFeZgN4E .mbr-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
-.cid-rpK6MCrsI8 .mbr-section-title {
+.cid-rpQFeZgN4E h4 {
+  text-align: center;
+}
+.cid-rpQFeZgN4E p {
+  text-align: center;
+}
+.cid-rpQFeZgN4E .card {
+  padding-bottom: 3rem;
+}
+.cid-rpQFeZgN4E .card-img {
+  padding-bottom: 1.5rem;
+}
+.cid-rpQFeZgN4E .card-img span {
+  font-size: 80px;
+  color: #ffffff;
+}
+.cid-rpQFeZgN4E .card-title,
+.cid-rpQFeZgN4E .card-img {
+  color: #000000;
+  text-align: center;
+}
+.cid-rpQFeZgN4E .card-title {
   letter-spacing: 0.1em;
+  font-weight: bold;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img {
-  margin-bottom: 1rem;
+.cid-rpQFeZgN4E .header-title {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding: 0;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img span {
-  font-size: 60px;
-}
-.cid-rpK6MCrsI8 H1 {
-  color: #000000;
-}
-.cid-rpK6MCrsI8 .mbr-text,
-.cid-rpK6MCrsI8 .mbr-section-btn {
-  color: #000000;
-  text-align: left;
+.cid-rpQFeZgN4E .header-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin-bottom: 2rem;
 }
 .cid-rpJZuAmdcX {
   padding-top: 45px;
@@ -2935,7 +2990,7 @@ body {
 .cid-roIhfMAXsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/happy-family-1698x1131.jpg");
+  background-image: url("../../../assets/images/abogados-mediadores-barceloa-1-696x465.jpg");
 }
 .cid-roIhfMAXsk .title {
   margin-bottom: 2rem;
@@ -3036,31 +3091,57 @@ body {
 .cid-roIhfMAXsk .landing-beneficios {
   font-size: 22px;
 }
-.cid-rpK6MCrsI8 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-roIhfMAXsk .titulo {
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+}
+.cid-rpQZeDpif8 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rpK6MCrsI8 .signature {
-  transform: rotate(-3deg);
-  -webkit-transform: rotate(-3deg);
+.cid-rpQZeDpif8 .mbr-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
 }
-.cid-rpK6MCrsI8 .mbr-section-title {
+.cid-rpQZeDpif8 h4 {
+  text-align: center;
+}
+.cid-rpQZeDpif8 p {
+  text-align: center;
+}
+.cid-rpQZeDpif8 .card {
+  padding-bottom: 3rem;
+}
+.cid-rpQZeDpif8 .card-img {
+  padding-bottom: 1.5rem;
+}
+.cid-rpQZeDpif8 .card-img span {
+  font-size: 80px;
+  color: #ffffff;
+}
+.cid-rpQZeDpif8 .card-title,
+.cid-rpQZeDpif8 .card-img {
+  color: #000000;
+  text-align: center;
+}
+.cid-rpQZeDpif8 .card-title {
   letter-spacing: 0.1em;
+  font-weight: bold;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img {
-  margin-bottom: 1rem;
+.cid-rpQZeDpif8 .header-title {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding: 0;
+  margin-bottom: 2rem;
 }
-.cid-rpK6MCrsI8 .card-img span {
-  font-size: 60px;
-}
-.cid-rpK6MCrsI8 H1 {
-  color: #000000;
-}
-.cid-rpK6MCrsI8 .mbr-text,
-.cid-rpK6MCrsI8 .mbr-section-btn {
-  color: #000000;
-  text-align: left;
+.cid-rpQZeDpif8 .header-text {
+  color: #073b4c;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin-bottom: 2rem;
 }
 .cid-rpJZuAmdcX {
   padding-top: 45px;
@@ -3375,7 +3456,7 @@ body {
 .cid-roIhfMAXsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/happy-family-1698x1131.jpg");
+  background-image: url("../../../assets/images/02-1-1200x800.jpg");
 }
 .cid-roIhfMAXsk .title {
   margin-bottom: 2rem;
@@ -3476,6 +3557,9 @@ body {
 .cid-roIhfMAXsk .landing-beneficios {
   font-size: 22px;
 }
+.cid-roIhfMAXsk .titulo {
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+}
 .cid-rpK6MCrsI8 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3495,11 +3579,11 @@ body {
   font-size: 60px;
 }
 .cid-rpK6MCrsI8 H1 {
-  color: #000000;
+  color: #0f7699;
 }
 .cid-rpK6MCrsI8 .mbr-text,
 .cid-rpK6MCrsI8 .mbr-section-btn {
-  color: #000000;
+  color: #073b4c;
   text-align: left;
 }
 .cid-rpJZuAmdcX {
